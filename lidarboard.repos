@@ -1,0 +1,9 @@
+repositories:
+  lidarboard/lidarboard_git:
+    type: git
+    url: git@gitlab.com:autocore/lidarboard_git
+    version: autocore-dev
+  lidarboard/nuc:
+    type: git
+    url: git@gitlab.com:autocore/nuc.git
+    version: autocore-dev
